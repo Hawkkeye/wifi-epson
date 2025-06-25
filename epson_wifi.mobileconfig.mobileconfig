@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+ "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>PayloadContent</key>
+  <array>
+    <dict>
+      <key>AutoJoin</key>
+      <true/>
+      <key>EncryptionType</key>
+      <string>WPA</string>
+      <key>Password</key>
+      <string>30092120</string>
+      <key>SSID_STR</key>
+      <string>DIRECT-9E-EPSON-474CFF</string>
+      <key>PayloadType</key>
+      <string>com.apple.wifi.managed</string>
+      <key>PayloadVersion</key>
+      <integer>1</integer>
+      <key>PayloadIdentifier</key>
+      <string>com.example.epsonwifi.wifi</string>
+      <key>PayloadUUID</key>
+      <string>2F4C1A0E-9D4F-43A8-9EDA-111111111111</string>
+      <key>PayloadDisplayName</key>
+      <string>EPSON Wi‑Fi</string>
+    </dict>
+  </array>
+  <key>PayloadType</key>
+  <string>Configuration</string>
+  <key>PayloadVersion</key>
+  <integer>1</integer>
+  <key>PayloadIdentifier</key>
+  <string>com.example.epsonwifi.profile</string>
+  <key>PayloadUUID</key>
+  <string>B8E97D55-3E8F-4EBB-9B1B-222222222222</string>
+  <key>PayloadDisplayName</key>
+  <string>DIRECT‑9E‑EPSON‑474CFF Auto‑Join</string>
+  <key>PayloadDescription</key>
+  <string>Installs Wi‑Fi credentials for DIRECT‑9E‑EPSON‑474CFF.</string>
+  <key>PayloadOrganization</key>
+  <string></string>
+</dict>
+</plist>
